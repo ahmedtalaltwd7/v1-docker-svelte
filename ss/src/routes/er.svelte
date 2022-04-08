@@ -1,0 +1,1 @@
+<h1 class="text-4xl text-center my-8 uppercase s-Uap-jPRb-uiE">server error</h1> 
